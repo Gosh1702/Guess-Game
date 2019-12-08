@@ -1,0 +1,12 @@
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\bin\Debug\проект ГОШИ.exe.config
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\bin\Debug\проект ГОШИ.exe
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\bin\Debug\проект ГОШИ.pdb
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект ГОШИ.csprojAssemblyReference.cache
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект_ГОШИ.gameForm.resources
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект_ГОШИ.Properties.Resources.resources
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект_ГОШИ.seccsesForm.resources
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект_ГОШИ.Form1.resources
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект ГОШИ.csproj.GenerateResource.cache
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект ГОШИ.csproj.CoreCompileInputs.cache
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект ГОШИ.exe
+C:\Users\OOP11\source\repos\проект ГОШИ\проект ГОШИ\obj\Debug\проект ГОШИ.pdb
